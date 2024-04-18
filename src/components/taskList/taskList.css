@@ -1,0 +1,12 @@
+.tasks {
+    display: flex;
+    justify-content: space-between;
+}
+
+.task {
+    width: 30%;
+    background-color: aliceblue;;
+    border: 1px solid grey;
+    margin-bottom: 10px;
+    padding: 10px;
+}

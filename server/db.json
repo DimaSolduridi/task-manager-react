@@ -1,0 +1,31 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Clean",
+      "subtitle": "Cleaning the house",
+      "description": "The most important task , if i dont clean the house exactly the way the wife wants me to i am a dead man",
+      "image": "https://static01.nyt.com/images/2017/05/13/well/cleaning_mobile/cleaning_mobile-videoSixteenByNineJumbo1600.jpg",
+      "isDone": false,
+      "dueDate": "2024-03-10"
+    },
+    {
+      "id": 2,
+      "title": "Cook",
+      "subtitle": "Cooking my meals",
+      "description": "Very important, if i dont cook , i dont eat, if i dont eat then i get hangry",
+      "image": "https://www.daysoftheyear.com/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=675%2Cq=85%2Cwidth=1200/wp-content/uploads/men-make-dinner-day21.jpg",
+      "isDone": false,
+      "dueDate": "2024-03-20"
+    },
+    {
+      "id": 3,
+      "title": "Write react assignment",
+      "subtitle": "Have to submit a react assignment",
+      "description": "I wont get a grade if dont submit this assignment...so here we are",
+      "image": "https://media.licdn.com/dms/image/C5612AQE5m0Mf24zW9g/article-cover_image-shrink_600_2000/0/1520205057142?e=2147483647&v=beta&t=2PAM_TjAv6Kc1MfiCM2UJT2OgcTcTDtyCVX_nX24zkE",
+      "isDone": false,
+      "dueDate": "2024-03-29"
+    }
+  ]
+}
